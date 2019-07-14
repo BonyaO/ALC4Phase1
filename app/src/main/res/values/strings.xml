@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">about alc</string>
+    <string name="my_profile">My profile</string>
+    <string name="my_profile_pic">My profile Picture</string>
+    <string name="welcome" translatable="true">Welcome to ALC 4.0</string>
+    <string name="activity2_name">About ALC</string>
+    <string name="notification_error_ssl_cert_invalid">SSL Certificate invalid</string>
+    <string name="alc_logo">ALC in partnership with plural sight and Google</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="cameroon">Cameroon</string>
+    <string name="email">Email:</string>
+    <string name="my_name">Yecheke Bonya Oryn Bonya</string>
+    <string name="bonya">bonyaoryn@gmail.com</string>
+    <string name="phone">Phone Number:</string>
+    <string name="numb">+237677558787</string>
+    <string name="slack">Slack Username:</string>
+    <string name="bonyaO">\@Bonya</string>
+</resources>
